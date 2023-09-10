@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-gabrielcanto461@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielcanto461@gmail.com)](mailto:gabrielcanto461@gmail.com)
 
 ## My name is Gabriel Augusto
-I'm 23, living in Campinas, passionated in music and technology always trying to follow the rule "better than yesterday, but worse than tomorrow" 🎻🎵💻
+I'm 23, living in Campinas, passionated in music and technology always trying to follow the rule "better than yesterday, but worse than tomorrow" 🎻🎵💻  
 Working as Java Back-End developer in a Payment Solutions Provider Company.
 ### 🖥️ Main technologies: 
 <div>
