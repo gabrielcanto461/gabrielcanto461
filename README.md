@@ -1,7 +1,7 @@
 <h1>Hi There! 👋</h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-cant0-5958a61a9/)](https://www.linkedin.com/in/gabrielcant0/)
-[![Gmail Badge](https://img.shields.io/badge/-gabrielcanto461@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielcanto461@gmail.com)](mailto:nanda.kipper@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-gabrielcanto461@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielcanto461@gmail.com)](mailto:gabrielcanto461@gmail.com)
 
 ## My name is Gabriel Augusto
 I'm 23, living in Campinas, passionated in music and technology always trying to follow the rule "better than yesterday, but worse than tomorrow" 🎻🎵💻
